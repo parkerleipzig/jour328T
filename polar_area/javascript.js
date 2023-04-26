@@ -31,7 +31,7 @@ var ctx = document.getElementById('myChart').getContext('2d');
               },
               title: {
                 display: true,
-                text: 'Valence (positive mood) of modern rock songs in the top 100 most streamed Spotify songs'
+                text: 'Valance (positive mood) of modern rock songs in the top 100 most streamed Spotify songs'
               }
             }
           }
